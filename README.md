@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Danny López
 
-<!--
-**DannyLopezC/DannyLopezC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game developer focused on gameplay systems, architecture, and multiplayer programming.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C++  
+C#  
+Unity  
+OpenGL  
+Photon Networking  
+Python
+
+## Projects
+
+🃏 Soul of Steel – Multiplayer card game using Photon  
+🧪 Collision Simulator - Python particle collision simulation
+👾 Space Invaders – Unity implementation with gameplay architecture  
+⚙️ Physics Simulation – OpenGL projectile simulation
+
+## Interests
+
+- Gameplay systems
+- Multiplayer networking
+- Engine programming
