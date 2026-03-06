@@ -14,7 +14,7 @@ Python
 ## Projects
 
 🃏 Soul of Steel – Multiplayer card game using Photon  
-🧪 Collision Simulator - Python particle collision simulation
+🧪 Collision Simulator - Python particle collision simulation  
 👾 Space Invaders – Unity implementation with gameplay architecture  
 ⚙️ Physics Simulation – OpenGL projectile simulation
 
