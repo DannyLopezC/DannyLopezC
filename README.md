@@ -16,7 +16,7 @@ Python
 🃏 [Soul of Steel](https://github.com/DannyLopezC/SoulOfSteel) – Multiplayer card game using Photon  
 🧪 [Collision Simulator](https://github.com/DannyLopezC/CollisionSimulatorPython) – Python particle collision simulation  
 👾 [Space Invaders](https://github.com/DannyLopezC/SpaceInvaders) – Unity implementation with gameplay architecture  
-⚙️ [Physics Simulation](https://github.com/DannyLopezC/PhysicsSimulator) – OpenGL projectile simulation
+⚙️ [Rocket Flight Simulation](https://github.com/DannyLopezC/Rocket-Flight-Simulator) – OpenGL rocket simulation
 
 ## Interests
 
